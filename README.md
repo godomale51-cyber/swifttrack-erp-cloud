@@ -10,13 +10,13 @@ Official repository for the cloud deployment and database integration of the Swi
 * **Database Management System:** PostgreSQL 16
 * **Cloud Infrastructure:** Amazon Web Services (AWS Free Tier) — Ubuntu 24.04 LTS
 * **Containerization:** Docker & Docker Compose
-* **Live Deployment URL:** `http://13.61.148.2:8069`
+* **Live Deployment URL:** `http://13.60.127.94:8069`
 
 ---
 
 ## 🔑 Assessor Credentials
 
-* **URL:** `http://13.61.148.2:8069`
+* **URL:** `http://13.60.127.94:8069
 * **Database Name:** `Godwin`
 * **Username:** `assessor@swone.com`
 * **Password:** `SWOne2026!`
